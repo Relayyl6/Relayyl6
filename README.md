@@ -12,7 +12,6 @@ I build scalable, efficient systems and love exploring the intersection of cutti
 *   🧠  I'm learning Python and Rust
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I'm secretly Spiderman... but don't tell Anyone
-*
 
 ### Skills 
 <p align="left">
