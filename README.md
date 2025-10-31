@@ -8,7 +8,7 @@ I build scalable, efficient systems and love exploring the intersection of cutti
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [oseghaleleonard39@gmail.com](mailto:oseghaleleonard39@gmail.com)
-*   🚀  I'm currently working on [Brainwave](http://brainwave.com)
+*   🚀  I'm currently working on [AjeWallet](http://brainwave.com)
 *   🧠  I'm learning Python and Rust
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I'm secretly Spiderman... but don't tell Anyone
