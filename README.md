@@ -48,7 +48,7 @@ I build scalable, efficient systems and love exploring the intersection of cutti
 ### Badges
 
 <b>My GitHub Stats</b><br/>
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=relayyl6&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="yemuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemuel&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="yemuel's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=relayyl6&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="yemuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relayyl6&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="yemuel's GitHub stats" /> |
 | ------------- | ------------- |
 
 ### Support Me
