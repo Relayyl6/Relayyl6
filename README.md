@@ -1,4 +1,4 @@
-noHi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yemuel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yemuel
 ==============================================================================================================================
 
 Full-Stack Software Engineer | Blender hobbyist | Open Source Curious
@@ -16,7 +16,7 @@ I build scalable, efficient systems and love exploring the intersection of cutti
 <p align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,linux,ubuntu,html,css,py,flask,docker,rust,actix,postgres,blender,notion,vscode,nodejs,nextjs&perline=3)" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,ts,linux,ubuntu,html,css,py,flask,docker,rust,actix,postgres,blender,notion,vscode,nodejs,nextjs&perline=9)" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ I build scalable, efficient systems and love exploring the intersection of cutti
 ### Socials
                   
                   
-<p align="left">
+<p align="center">
 <a href="https://www.github.com/Relayyl6" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
