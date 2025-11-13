@@ -16,11 +16,10 @@ I build scalable, efficient systems and love exploring the intersection of cutti
 <p align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,linux,ubuntu,html,css,py,flask,docker,rust,actix,postgres,blender,notion,vscode,nodejs,nextjs&perline=9)" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,ts,linux,ubuntu,html,css,py,flask,docker,rust,actix,postgres,blender,notion,vscode,nodejs,nextjs)" />
   </a>
 </p>
-
-
+  
 
 ### Socials
                   
