@@ -16,7 +16,7 @@ I build scalable, efficient systems and love exploring the intersection of cutti
 <p align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,ubuntu,html,css,py,flask,rust,actix,postgres,blender,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,github,ts,ubuntu,html,css,py,flask,rust,actix,postgres,blender,react,nextjs,nodejs" />
   </a>
 </p>
 
