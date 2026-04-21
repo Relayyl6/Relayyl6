@@ -13,6 +13,11 @@ I build scalable, efficient systems and love exploring the intersection of cutti
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I'm secretly Spiderman... but don't tell Anyone
 
+
+** I also write, check out my MEDIUM for blog stuff
+https://medium.com/@oseghaleleonard39
+
+
 <p align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
