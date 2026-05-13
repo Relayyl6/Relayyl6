@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yemuel
 ==============================================================================================================================
 
-Full-Stack Software Engineer | Blender hobbyist | Open Source Curious
+Full-Stack mobile and full stack Engineer | Blender hobbyist | Open Source Researcher
 -------------------------------------------------------------------
 
 I build scalable, efficient systems and love exploring the intersection of cutting-edge tools and clean code
 
 *   🌍  I'm based in Nigeria
+*   ✍🏾  I build mobile apps that scale 
 *   ✉️  You can contact me at [oseghaleleonard39@gmail.com](mailto:oseghaleleonard39@gmail.com)
 *   🚀  I'm currently working on [AjeWallet](http://brainwave.com)
 *   🧠  I'm learning Python and Rust
